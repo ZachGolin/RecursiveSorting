@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36408.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveSorting", "RecursiveSorting\RecursiveSorting.csproj", "{52D36411-0812-4A1C-9080-1E43E0397F84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveSorting.Tests", "RecursiveSorting.Tests\RecursiveSorting.Tests.csproj", "{553968B8-2BDF-4337-83F5-0FD02609D386}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52D36411-0812-4A1C-9080-1E43E0397F84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52D36411-0812-4A1C-9080-1E43E0397F84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52D36411-0812-4A1C-9080-1E43E0397F84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52D36411-0812-4A1C-9080-1E43E0397F84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{553968B8-2BDF-4337-83F5-0FD02609D386}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{553968B8-2BDF-4337-83F5-0FD02609D386}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{553968B8-2BDF-4337-83F5-0FD02609D386}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{553968B8-2BDF-4337-83F5-0FD02609D386}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41C96D13-62AC-423A-8BF1-2BE1A31DD60F}
+	EndGlobalSection
+EndGlobal
